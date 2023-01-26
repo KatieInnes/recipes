@@ -1,0 +1,16 @@
+.container-lg{
+    background-color: aquamarine;
+}
+
+.btn{
+    margin-bottom: 15px;
+}
+
+.register{
+    border-bottom: 5px rgb(14, 152, 145) solid;
+    margin: 10px;
+}
+
+.login{
+    margin: 10px;
+}
